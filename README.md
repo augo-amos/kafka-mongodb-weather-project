@@ -28,7 +28,6 @@ kafka-weather-project/
 ---
 
 ## Prerequisites
-Before you begin, ensure you have:
 
 1. **Python 3.10+**
 2. **Kafka & Zookeeper** running locally on default ports:
@@ -43,7 +42,7 @@ Before you begin, ensure you have:
 
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/kafka-weather-project.git
+git clone https://github.com/augo-amos/kafka-mongodb-weather-projectt
 cd kafka-weather-project
 ````
 
