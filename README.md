@@ -20,10 +20,7 @@ This project demonstrates how to build a simple **data pipeline** that fetches r
 kafka-weather-project/
 │
 ├── producer-weather-data.py       # Fetches weather data and publishes to Kafka
-├── consumer-weather-analysis.py   # Consumes data and prints simple analysis
 ├── mongo-consumer-weather-data.py # Consumes data and inserts into MongoDB Atlas
-├── test-mongo-connection.py       # Script to test MongoDB Atlas connection
-├── requirements.txt               # Python dependencies
 └── README.md                      # Project documentation (this file)
 
 ````
@@ -55,20 +52,6 @@ Create a virtual environment:
 ```bash
 python3 -m venv kaf-env
 source kaf-env/bin/activate   # On Windows: kaf-env\Scripts\activate
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Example `requirements.txt`:
-
-```
-requests
-kafka-python
-pymongo
 ```
 
 ---
