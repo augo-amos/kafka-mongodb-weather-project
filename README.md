@@ -1,5 +1,4 @@
 
-```markdown
 # Kafka Weather Data Pipeline with MongoDB Atlas
 
 This project demonstrates how to build a simple **data pipeline** that fetches real-time weather data from the [OpenWeatherMap API](https://openweathermap.org/api), publishes it to an **Apache Kafka topic**, consumes it, and stores it in **MongoDB Atlas (cloud database)** for analysis.
