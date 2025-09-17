@@ -42,7 +42,7 @@ kafka-weather-project/
 
 Clone the repository:
 ```bash
-git clone https://github.com/augo-amos/kafka-mongodb-weather-projectt
+git clone https://github.com/augo-amos/kafka-mongodb-weather-project
 cd kafka-weather-project
 ````
 
